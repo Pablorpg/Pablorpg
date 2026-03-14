@@ -8,12 +8,11 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-- 🎓 Estudante de tecnologia
-- 💻 Iniciando minha jornada em Desenvolvimento Web
-- 📚 Aprendendo todos os dias e criando projetos
-- 🎯 Objetivo: me tornar um Desenvolvedor Web profissional
+-  Estudante de tecnologia
+-  Iniciando em Desenvolvimento Web
+-  Objetivo: me tornar um Desenvolvedor Web profissional
 
 ---
 
@@ -22,19 +21,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
-
----
-
-## 📂 Projetos
-
-Aqui estão alguns projetos que desenvolvi durante meus estudos.
-
-- 📌 Projetos de HTML e CSS  
-- 📌 Exercícios de lógica de programação  
-- 📌 Experimentos com JavaScript  
-
-*(novos projetos serão adicionados em breve)*
-
 ---
 
 ## 📈 Estatísticas do GitHub
