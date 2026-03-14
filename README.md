@@ -49,7 +49,7 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos.
 ## 🌎 Onde me encontrar
 
 <p>
-<a href="https://github.com/SEUUSUARIO">
+<a href="https://github.com/Pablorpg">
 <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github">
 </a>
 </p>
